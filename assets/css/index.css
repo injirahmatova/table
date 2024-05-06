@@ -1,0 +1,9 @@
+table,th,td {
+    border: 1px solid black;
+}
+.header {
+    background-color: #33CCCC;
+}
+.headerRow {
+    background-color: #FDDB5D;
+}
